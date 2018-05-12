@@ -1,0 +1,4 @@
+[24-Sep-2017 15:12:51 America/Chicago] PHP Parse error:  syntax error, unexpected '$tele' (T_VARIABLE) in /home3/lordmirziteh/public_html/mail_handler.php on line 23
+[25-Sep-2017 12:00:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'mail' (T_STRING) in /home3/lordmirziteh/public_html/mail_handler.php on line 32
+[25-Sep-2017 12:01:02 America/Chicago] PHP Parse error:  syntax error, unexpected 'mail' (T_STRING) in /home3/lordmirziteh/public_html/mail_handler.php on line 32
+[25-Sep-2017 20:08:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'mail' (T_STRING) in /home3/lordmirziteh/public_html/mail_handler.php on line 32
